@@ -1,64 +1,43 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://praneetdixit.netlify.app/banner.png" alt="Praneet Dixit Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Praneet Dixit 👋</h1>
 
 <p align="center">
-  MERN Stack Developer | Robotics Enthusiast | IIT Kharagpur
+  Full-Stack Web Developer | Robotics & AI Enthusiast | IIT Kharagpur
 </p>
 
 ---
 
 ## 🌐 About Me
 
-I'm a passionate web developer and an aspiring roboticist, currently pursuing Mechanical Engineering at **IIT Kharagpur**. My expertise lies in building dynamic full-stack web applications using the **MERN stack**, and I love integrating software with hardware systems in robotics.
+I'm a Mechanical Engineering undergrad at **IIT Kharagpur**, passionate about combining software and hardware to build intelligent systems. My expertise lies in developing full-stack web apps with the **MERN stack**, and I actively contribute to robotics and autonomous systems.
 
-Beyond web development, I actively work on:
-- 🤖 **Robotics**
-- 🎯 **Path Planning Algorithms** (A*, RRT, Genetic Algorithms)
-- 👁️‍🗨️ **Computer Vision** (OpenCV, MediaPipe)
-- ✈️ **Flight Mechanics & Autonomous Systems** (as part of Aerial Robotics Kharagpur)
+I love working on:
+- 🤖 Robotics & Real-Time Control Systems  
+- 📍 Path Planning Algorithms (A*, RRT, Genetic Algorithms)  
+- 👁️‍🗨️ Computer Vision using OpenCV & MediaPipe  
+- ✈️ Flight Mechanics & Autonomous Drones
 
 ---
 
-## 💼 Portfolio
-Visit 👉 [praneetdixit.netlify.app](https://praneetdixit.netlify.app)
+## 💼 Portfolio  
+Check out my work 👉 [**praneetdixit.netlify.app**](https://praneetdixit.netlify.app)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Web Development
-- **Frontend**: React, Next.js, TailwindCSS, GSAP
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Firebase
-- **Tooling**: Vite, Git, REST APIs
+- **Frontend**: React, Next.js, TailwindCSS 
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB
+- **Tools**: Vite, Git, REST APIs
 
 ### Robotics & AI
-- Python, OpenCV, MediaPipe
-- Path Planning: A*, RRT, Genetic Algorithms
-- Real-time gesture-based control systems
+- **Languages**: Python, C/C++  
+- **Libraries**: OpenCV, MediaPipe  
+- **Algorithms**: Path planning with RRT, PRM etc. 
+- **Systems**: Real-time Gesture Control
+
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneet-dixit&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=praneet-dixit&theme=radical" width="48%" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [Website](https://praneetdixit.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/praneet-dixit-18346429a/)
-- 🐦 [Twitter](https://twitter.com/PraneetDixit_)
-- 📧 Email: praneetdixit1@gmail.com
-
----
-
-Thanks for visiting my profile! 😊 Feel free to explore my repositories and projects 🚀
+Thanks for visiting my profile! 🚀 Feel free to explore my repos and drop a star ⭐ if you like something!
