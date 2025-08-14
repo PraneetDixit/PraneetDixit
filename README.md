@@ -15,6 +15,7 @@ I love working on:
 - 📍 Path Planning Algorithms (A*, RRT, Genetic Algorithms)  
 - 👁️‍🗨️ Computer Vision using OpenCV & MediaPipe  
 - ✈️ Flight Mechanics & Autonomous Drones
+- ⚙️ Mechanical Designing
 
 ---
 
@@ -36,7 +37,7 @@ Check out my work 👉 [**praneetdixit.netlify.app**](https://praneetdixit.netli
 - **Libraries**: OpenCV, MediaPipe  
 - **Algorithms**: Path planning with RRT, PRM etc. 
 - **Systems**: Real-time Gesture Control
-
+- **Hardware**: SolidWorks, Ansys
 
 ---
 
